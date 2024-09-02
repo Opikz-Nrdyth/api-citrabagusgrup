@@ -1,0 +1,112 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p>Seorang peneliti sejarah akan melakukan penelitian sejarah mengenai peristiwa reformasi 1998 di Jakarta dengan berbagai pendekatan. Konsep berpikir yang digunakan oleh peneliti ialah\u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Sinkronik<\/p>",
+        "B": "<p style=\"text-align:justify;\">Diakronik<\/p>",
+        "C": "<p style=\"text-align:justify;\">Deskriptif<\/p>",
+        "D": "<p style=\"text-align:justify;\">Perubahan<\/p>",
+        "E": "<p style=\"text-align:justify;\">Keberlanjutan<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p>Konsep berpikir sinkronik dalam mengkaji suatu peristiwa sejarah beguna untuk\u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Mempelajari peristiwa sejarah sesuai waktu terjadinya<\/p>",
+        "B": "<p>Memudahkan penerapan konsep periodisasi antar peristiwa sejarah<\/p>",
+        "C": "<p>Tidak terjadi tumpang tindih dalam penyusunan suatu peristiwa sejarah<\/p>",
+        "D": "<p style=\"text-align:justify;\">Mempermudah mengkaji suatu peristiwa sejarah berdasarkan urutan waktu<\/p>",
+        "E": "<p style=\"text-align:justify;\">Melihat perubahan dan perkembangan peristiwa sejarah secara menyeluruh<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p style=\"text-align:justify;\">Prasasti Muarakaman yang menceritakan pemberian sedekah berupa 20.000 ekor sapi kepada para brahmana yang seperti api ditengah lapangan yang suci (Waprakeswara) oleh raja Mulawarman, menunjukkan bahwa\u2026 .<\/p>",
+        "A": "<p style=\"text-align:justify;\">Seorang raja harus memiliki rasa keadilan<\/p>",
+        "B": "<p style=\"text-align:justify;\">Kebaktian seorang raja terhadap agama yang dianutnya<\/p>",
+        "C": "<p style=\"text-align:justify;\">Seorang raja harus memiliki sifat dermawan dalam memimpin<\/p>",
+        "D": "<p style=\"text-align:justify;\">Kaum Brahma berperan penting dalam penyebaran agama Hindu (Weda)<\/p>",
+        "E": "<p style=\"text-align:justify;\">Raja Mulawarman mempunyai kedekatan khusus dengan kaum Brahmana<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p style=\"text-align:justify;\">Seni pertunjukan wayang adalah salah satu unsur budaya asli Indonesia yang setelah masuknya budaya Hindu\u2013Budha terjadi akulturasi. Wujud akulturasi budaya Indonesia dengan budaya Hindu \u2013 Budha dalam seni Pertunjukan wayang terdapat pada\u2026 .<\/p>",
+        "A": "<p style=\"text-align:justify;\">Dalangnya<\/p>",
+        "B": "<p style=\"text-align:justify;\">Peralatannya<\/p>",
+        "C": "<p style=\"text-align:justify;\">Cerita dan tokohnya<\/p>",
+        "D": "<p style=\"text-align:justify;\">Tempat pagelarannya<\/p>",
+        "E": "<p style=\"text-align:justify;\">Waktu pertunjukannya<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p style=\"text-align:justify;\">Pembukaan jalur sutra <i>(silk road)<\/i> pada tahun oleh 130 SM oleh Dinasti Han berdampak besar terhadap perkembangan perdagangan dunia karena\u2026 .<\/p>",
+        "A": "<p style=\"text-align:justify;\">Menghubungkan belahan dunia utara dengan selatan<\/p>",
+        "B": "<p style=\"text-align:justify;\">Menghubungkan perdagangan Barat dan Timur<\/p>",
+        "C": "<p style=\"text-align:justify;\">Menghubungkan antara Barat dengan Selatan<\/p>",
+        "D": "<p style=\"text-align:justify;\">Berkembangnya perdagangan antar negara<\/p>",
+        "E": "<p style=\"text-align:justify;\">Menghubungkan antara Barat dengan utara<\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p style=\"text-align:justify;\">Berikut ini dampak dari adanya sistem bonus yang diberlakukan pada masa tanam paksa adalah\u2026 .<\/p>",
+        "A": "<p style=\"text-align:justify;\">Gagal panen<\/p>",
+        "B": "<p style=\"text-align:justify;\">Rakyat semakin giat dalam tanam paksa<\/p>",
+        "C": "<p style=\"text-align:justify;\">Para pegawai VOC semakin bersemangat dalam bekerja<\/p>",
+        "D": "<p style=\"text-align:justify;\">Kehidupan rakyat semakin membaik karena selalu diberikan bonus<\/p>",
+        "E": "<p style=\"text-align:justify;\">Terjadi penyelewengan karena memaksa petani untuk menanam melebihi target<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p style=\"text-align:justify;\">Untuk mengubah pemasukan negara dari tanam paksa karena dianggap merugikan rakyat, Rafles menggantinya dengan program\u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Monopoli perdagangan garam<\/p>",
+        "B": "<p style=\"text-align:justify;\">Memberlakukan land rent system<\/p>",
+        "C": "<p style=\"text-align:justify;\">Penetapan jumlah tanaman ekspor kepada penduduk<\/p>",
+        "D": "<p style=\"text-align:justify;\">Meneruskan sistem Contingenten dan Verplichte levarantie<\/p>",
+        "E": "<p style=\"text-align:justify;\">Mengeluarkan sebuah undang-undang Agraria dan undang-undang Gula<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p>Pada tahun 1949 dilaksanakan sebuah operasi militer Gerakan Benteng Nasional yang merupakan gabungan dari Divisi Siliwangi, Divisi Diponegoro, dan Divisi Brawijaya. Operasi militer ini bertujuan untuk\u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Menumpas gerakan DI\/TII di Aceh<\/p>",
+        "B": "<p style=\"text-align:justify;\">Menumpas gerakan DI\/TII di Sulawesi<\/p>",
+        "C": "<p style=\"text-align:justify;\">Menumpas gerakan pemberontakan RMS<\/p>",
+        "D": "<p style=\"text-align:justify;\">Menumpas gerakan DI\/TII di Jawa Tengah<\/p>",
+        "E": "<p style=\"text-align:justify;\">Menumpas gerakan pemberontakan APRA<\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "9",
+        "Soal": "<p style=\"text-align:justify;\">Dalam masa perjalanannya, Indonesia pernah mempraktikkan sistem demokrasi liberal. Hal ini dinyatakan wajar, sebab\u2026 .<\/p>",
+        "A": "<p style=\"text-align:justify;\">Sesuai dengan semangat konstitusi yang digunakan pada masa itu, yakni UUDS 1950<\/p>",
+        "B": "<p style=\"text-align:justify;\">Terlalu banyak partai politik yang ikut serta dalam pemerintahan<\/p>",
+        "C": "<p style=\"text-align:justify;\">Dasar negara yang digunakan Indonesia menganut paham liberal<\/p>",
+        "D": "<p style=\"text-align:justify;\">Pada masa itu Indonesia cenderung pro terhadap Barat<\/p>",
+        "E": "<p style=\"text-align:justify;\">Banyak elit politik yang berpandangan liberal<\/p>",
+        "Kunci": "B",
+        "tipe": null
+    },
+    {
+        "Number": "10",
+        "Soal": "<p>Tujuan dibentuknya kabinet karya atau <i>zaken kabinet <\/i>pada masa Demokrasi Liberal adalah\u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Menghindari persaingan antar parpol<\/p>",
+        "B": "<p style=\"text-align:justify;\">Agar kabinet terbebas dari perintah presiden<\/p>",
+        "C": "<p style=\"text-align:justify;\">Supaya mendapat dukungan dari berbagai parpol<\/p>",
+        "D": "<p style=\"text-align:justify;\">Untuk mendapatkan dukungan dari anggota parlemen<\/p>",
+        "E": "<p style=\"text-align:justify;\">Mengefektifkan kinerja kabinet agar tidak terjadi malfungsi cabinet<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    }
+]

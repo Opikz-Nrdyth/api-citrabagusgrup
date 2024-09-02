@@ -1,0 +1,112 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p style=\"text-align:justify;\">Pada keadaan normal STP (T = 0 C dan p = 1 atm) 160 gram oksigen memiliki volume sebesar \u2026<\/p><p style=\"text-align:justify;\">(R = 8,314 J\/molK, 1 atm = 10<sup>5<\/sup> N\/m<sup>2<\/sup>)<\/p>",
+        "A": "<p>1,10 . 10<sup>-7<\/sup> m<sup>3<\/sup><\/p>",
+        "B": "<p>22,4 . 10<sup>-7<\/sup> m<sup>3<\/sup><\/p>",
+        "C": "<p>11,10 . 10<sup>-6&nbsp;<\/sup>m<sup>3<\/sup><\/p>",
+        "D": "<p>22,4 . 10<sup>-6<\/sup> m<sup>3<\/sup><\/p>",
+        "E": "<p>1,10 . 10<sup>-5&nbsp;<\/sup>m<sup>3<\/sup>1<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p>Sejumlah gas ideal menjalani proses isotermik tekanan menjadi 2 kali semula, maka volumenya menjadi \u2026<\/p>",
+        "A": "<p>4 kali semula<\/p>",
+        "B": "<p>2 kali semula<\/p>",
+        "C": "<p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAnCAIAAABSVfUBAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAMpJREFUOE9j\/P\/\/PwMOwIRLAihOrNyd7enWjOnbESYB7fv\/\/\/a2CWlWVmDBtG1gERAAm7l96wa10qNHb0+ASMMAWM4zf6anCqajiHULuk4q6Ltz+9oxBoYrtxAeBHsPzfFQbzLSOKyp5T880c4wVPxAOG7vbJ8ITJpQYJ2+\/Q7E28A42pYGpK0m3IZEJYIDlYPKgGTBKsEpGCSHCkByEKXocggZNDlQurFCZAiEPnCCQsopcH2YEjD7kC2BJEmwY4BmYkmdELPJjVsATVztCrzwOUkAAAAASUVORK5CYII=\" width=\"9\" height=\"39\"> kali semula<\/p>",
+        "D": "<p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAnCAIAAABSVfUBAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAOZJREFUOE9j\/P\/\/PwMOwIRLAihOrNyd7enWjOnbESYB7fv\/\/\/a2CWlWVmDBtG1gERAAm7l96wa10qNHb0+ASMMAWM4zf6anCqajiHULuk4q6Ltz+9oxBoYrtxAeBHsPzfFQbzLSOKyp5T880c4wVPxAfNzemWjNyGg98Q7E18j67kyMLwDGLmoaBPO2p8evCtuGHMswfdvTW66ELcxnACULlLQLtMaLoeZoPlr6BeoDWrNKZ9tMT+RgB+YaoIv+b0vDGhdWE24zwHMNmAFSCBRFykdoGq\/dhgog6bu9LQ2aySBayY1bADx6gBxKX70eAAAAAElFTkSuQmCC\" width=\"9\" height=\"39\"> kali semula<\/p>",
+        "E": "<p style=\"text-align:justify;\">Tetap<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p>Kelajuan efektif suatu gas adalah \u2026<\/p>",
+        "A": "<p>Sebanding dengan suhu mutlaknya<\/p>",
+        "B": "<p>Sebanding dengan kuadrat suhu mutlaknya<\/p>",
+        "C": "<p>Sebanding dengan akar suhu mutlaknya<\/p>",
+        "D": "<p>Berbanding terbalik dengan akar kuadrat suhu mutlaknya<\/p>",
+        "E": "<p>Berbanding terbalik dengan suhu mutlaknya<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p>Gas neon memiliki kecepatan rata-rata 400 m\/s pada suhu 127 \u00b0C. Untuk menaikan kecepetannya menjadi 800 m\/s, maka suhu gas neon dinaikkan sebesar \u2026<\/p>",
+        "A": "<p>327 \u00b0C<\/p>",
+        "B": "<p>527 \u00b0C<\/p>",
+        "C": "<p>900 \u00b0C<\/p>",
+        "D": "<p>1200 \u00b0C<\/p>",
+        "E": "<p>1327 \u00b0C<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p>Siklus carnot dibatasi oleh dua proses yaitu \u2026&nbsp;<\/p>",
+        "A": "<p>Isobaric dan isotermik<\/p>",
+        "B": "<p style=\"text-align:justify;\">Isobaric dan isokhorik<\/p>",
+        "C": "<p style=\"text-align:justify;\">Isotermik dan adiabatic<\/p>",
+        "D": "<p style=\"text-align:justify;\">Isotermik dan isokhorik<\/p>",
+        "E": "<p style=\"text-align:justify;\">Isokhorik dan isentropic<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p style=\"text-align:justify;\">Suatu gas ideal dengan volume 1 liter pada suhu 27 \u00b0C mengalami pemanasan isobaric pada tekanan 3 atm hingga suhu 117 \u00b0C. Bila kapasitas kalor gas ideal adalah 8.0 J K<sup>-1<\/sup>, maka volume akhir gas ideal dan perubahan energi dalam berturut-turut adalah \u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">1,3 liter dan \u0394U = 630 J<\/p>",
+        "B": "<p>1,3 liter dan \u0394U = 720 J<\/p>",
+        "C": "<p style=\"text-align:justify;\">1,5 liter dan \u0394U = 630 J<\/p>",
+        "D": "<p style=\"text-align:justify;\">1,5 liter dan \u0394U = 720 J<\/p>",
+        "E": "<p style=\"text-align:justify;\">1,8 liter dan \u0394U = 630 J<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p style=\"text-align:justify;\">Jika suhu gas ideal dalam ruang tertutup dinaikkan menjadi 4 kali suhu mula-mula, maka kecepatan gerak partikel-partikelnya menjadi \u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">\u00bc kali semula<\/p>",
+        "B": "<p style=\"text-align:justify;\">\u00bd kali semula<\/p>",
+        "C": "<p>2 kali semula<\/p>",
+        "D": "<p style=\"text-align:justify;\">4 kali semula<\/p>",
+        "E": "<p style=\"text-align:justify;\">16 kali semula<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p style=\"text-align:justify;\">Tekanan gas dalam suatu tabung tertutup menurun menjadi 64% dari semula. Penurunan laju molekul gas sebesar \u2026<\/p>",
+        "A": "<p>5%<\/p>",
+        "B": "<p style=\"text-align:justify;\">10%<\/p>",
+        "C": "<p style=\"text-align:justify;\">15%<\/p>",
+        "D": "<p style=\"text-align:justify;\">20%<\/p>",
+        "E": "<p style=\"text-align:justify;\">25%<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "9",
+        "Soal": "<p>Pada proses termodinamika, pernyataan yang menunjukkan gas mengalami proses adiabatik adalah jika \u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">Perubahaan keadaan gas yang suhunya selalu tetap<\/p>",
+        "B": "<p style=\"text-align:justify;\">Perubahan keaaan gas yang tekanannya tidak berubah<\/p>",
+        "C": "<p style=\"text-align:justify;\">Kecepatan rata-rata partikel bertambah<\/p>",
+        "D": "<p style=\"text-align:justify;\">Usaha luar gas sebanding dengan suhunya<\/p>",
+        "E": "<p style=\"text-align:justify;\">Tidak ada pertukaran kalor antara sistem dan reservoir<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "10",
+        "Soal": "<p style=\"text-align:justify;\">Sejumlah gas ideal bertekanan P bersuhu 27 \u00b0C dipanaskan sampai 54 \u00b0C. Jika volumenya naik menjadi dua kali, maka tekanannya menjadi \u2026<\/p>",
+        "A": "<p style=\"text-align:justify;\">0.25 P<\/p>",
+        "B": "<p style=\"text-align:justify;\">0.50 P<\/p>",
+        "C": "<p>0.75 P<\/p>",
+        "D": "<p style=\"text-align:justify;\">P<\/p>",
+        "E": "<p style=\"text-align:justify;\">2P<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p>Apa yang dimaksud dengan energi terbarukan?<\/p>",
+        "A": "<p>Energi yang berasal dari bahan bakar fosil<\/p>",
+        "B": "<p>Energi yang dapat diperbaharui dan tidak habis digunakan<\/p>",
+        "C": "<p>Energi yang hanya dapat diproduksi oleh manusia<\/p>",
+        "D": "<p>Energi yang bersumber dari uranium<\/p>",
+        "E": "<p>Energi yang dihasilkan dari pembakaran limbah<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Salah satu bentuk energi terbarukan yang dihasilkan dari gerakan air adalah?<\/span><\/p>",
+        "A": "<p style=\"text-align:justify;\">Energi nuklir<\/p>",
+        "B": "<p style=\"text-align:justify;\">Energi matahari<\/p>",
+        "C": "<p style=\"text-align:justify;\">Energi angin<\/p>",
+        "D": "<p style=\"text-align:justify;\">Energi hidrolik<\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">Energi fosil<\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Mengapa kita harus mempelajari energi terbarukan?<\/span><\/p>",
+        "A": "<p>Karena energi terbarukan hanya berdampak positif bagi lingkungan<\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">Karena energi terbarukan lebih murah daripada energi konvensional<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">Karena sumber energi fosil semakin menipis<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">Karena sumber energi fosil semakin menipis<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">Karena energi terbarukan tidak membutuhkan teknologi canggih untuk produksinya<\/span><\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Apa yang dimaksud dengan biomassa sebagai sumber energi terbarukan?<\/span><\/p>",
+        "A": "<p>Energi yang dihasilkan dari hasil pembakaran bahan organik<\/p>",
+        "B": "<p>Energi yang dihasilkan dari radioaktifitas alami<\/p>",
+        "C": "<p>Energi yang dihasilkan dari tenaga panas bumi<\/p>",
+        "D": "<p>Energi yang dihasilkan dari pergerakan air laut<\/p>",
+        "E": "<p>Energi yang dihasilkan dari panas matahari<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Apa yang dimaksud dengan energi surya sebagai sumber energi terbarukan?<\/span><\/p>",
+        "A": "<p>Energi yang dihasilkan dari tenaga angin<\/p>",
+        "B": "<p>Energi yang dihasilkan dari pembakaran biomassa<\/p>",
+        "C": "<p>Energi yang dihasilkan dari panas bumi<\/p>",
+        "D": "<p>Energi yang dihasilkan dari sinar matahari<\/p>",
+        "E": "<p>Energi yang dihasilkan dari air laut<\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Salah satu keunggulan energi angin sebagai sumber energi terbarukan adalah?<\/span><\/p>",
+        "A": "<p>Tidak memerlukan peralatan khusus untuk penggunaannya<\/p>",
+        "B": "<p>Dapat dihasilkan tanpa memerlukan lahan yang luas<\/p>",
+        "C": "<p>Bersifat kontinyu dan dapat diproduksi sepanjang waktu<\/p>",
+        "D": "<p>Tidak memerlukan pengetahuan khusus dalam pemasangannya<\/p>",
+        "E": "<p>Lebih efisien daripada energi fosil<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Apa yang dimaksud dengan energi laut sebagai sumber energi terbarukan?<\/span><\/p>",
+        "A": "<p>Energi yang dihasilkan dari tumbukan gelombang laut<\/p>",
+        "B": "<p>Energi yang dihasilkan dari air laut yang dipanaskan oleh matahari<\/p>",
+        "C": "<p>Energi yang dihasilkan dari arus laut<\/p>",
+        "D": "<p>Energi yang dihasilkan dari biomassa laut<\/p>",
+        "E": "<p>Energi yang dihasilkan dari penggantian air laut menjadi hidrogen<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Salah satu alasan penting mengapa kita harus beralih ke energi terbarukan adalah?<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">Karena energi terbarukan tidak memiliki dampak negatif terhadap ekosistem<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">Karena sumber energi fosil akan selalu tersedia dalam jumlah yang cukup<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">Karena energi terbarukan tidak memerlukan investasi besar dalam infrastruktur<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">Karena penggunaan energi terbarukan dapat mengurangi emisi gas rumah kaca<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">Karena energi terbarukan tidak efisien dalam penyediaan energi yang stabil<\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "9",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Sebuah lampu LED dengan daya 10 watt digunakan selama 5 jam setiap hari selama satu bulan. Harga listrik per kilowatt-hour (kWh) adalah Rp 1.500,-. Berapakah biaya listrik yang harus dibayar oleh pemilik lampu tersebut setelah satu bulan?<\/span><\/p>",
+        "A": "<p>Rp 3.750,-<\/p>",
+        "B": "<p>Rp 4.500,-<\/p>",
+        "C": "<p>Rp 2.250,-<\/p>",
+        "D": "<p>Rp 1.500,-<\/p>",
+        "E": "<p>Rp 3.000,-<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "10",
+        "Soal": "<p style=\"text-align:justify;\">Soal Energi Mekanik:<\/p><p>Sebuah mobil dengan massa 1000 kg sedang bergerak dengan kecepatan 20 m\/s di jalan datar. Berapakah energi kinetik mobil tersebut?<\/p>",
+        "A": "<p>200 J<\/p>",
+        "B": "<p>2000 J<\/p>",
+        "C": "<p>4000 J<\/p>",
+        "D": "<p>8000 J<\/p>",
+        "E": "<p>16000 J<\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    }
+]

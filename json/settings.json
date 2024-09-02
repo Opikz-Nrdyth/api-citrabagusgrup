@@ -1,0 +1,92 @@
+[
+    {
+        "nama": "Jadikan_Semua_Siswa_Alumni",
+        "deskripsi": "Fungsi ini memindahkan data siswa ke data alumni",
+        "value": true,
+        "tipe": "button"
+    },
+    {
+        "nama": "Hapus_Semua_Siswa",
+        "deskripsi": "Fungsi ini untuk menghapus semua siswa",
+        "value": true,
+        "tipe": "button"
+    },
+    {
+        "nama": "Hapus_Semua_Jadwal",
+        "deskripsi": "Fungsi ini untuk menghapus semua jadwal",
+        "value": true,
+        "tipe": "button"
+    },
+    {
+        "nama": "Hapus_Semua_Backup",
+        "deskripsi": "Fungsi ini untuk menghapus semua backup jawaban siswa",
+        "value": true,
+        "tipe": "button"
+    },
+    {
+        "nama": "Hapus_Semua_Jawaban",
+        "deskripsi": "Fungsi ini untuk menghapus semua jawaban siswa",
+        "value": true,
+        "tipe": "button"
+    },
+    {
+        "nama": "ujian",
+        "deskripsi": "Fungsi ini untuk mengaktifkan atau menonaktifkan tombol ujian",
+        "value": true,
+        "tipe": "togle"
+    },
+    {
+        "nama": "penilaian",
+        "deskripsi": "Fungsi ini untuk mengaktifkan atau menonaktifkan tombol penilaian",
+        "value": false,
+        "tipe": "togle"
+    },
+    {
+        "nama": "materi",
+        "deskripsi": "Fungsi ini untuk mengaktifkan atau menonaktifkan tombol materi",
+        "value": true,
+        "tipe": "togle"
+    },
+    {
+        "nama": "minat_univ",
+        "deskripsi": "Fungsi ini untuk mengaktifkan atau menonaktifkan tombol minat univ di ujian",
+        "value": false,
+        "tipe": "togle"
+    },
+    {
+        "nama": "Pra_Regist",
+        "deskripsi": "Fungsi ini untuk memperbolehkan atau tidak memperbolehkan siswa pra regist mengikuti ujian",
+        "value": true,
+        "tipe": "togle"
+    },
+    {
+        "nama": "token_ujian",
+        "deskripsi": "Token untuk masuk ujian",
+        "value": "CBGTO1",
+        "tipe": "value"
+    },
+    {
+        "nama": "admin_1",
+        "deskripsi": "Nomer admin 1 atau Frond Office",
+        "value": "08989889753",
+        "tipe": "value"
+    },
+    {
+        "nama": "admin_2",
+        "deskripsi": "Nomer admin 1 atau Kantor Pendidikan",
+        "value": "089687936092",
+        "tipe": "value"
+    },
+    {
+        "nama": "username",
+        "deskripsi": "Username untuk login admin",
+        "value": "Admin",
+        "tipe": "value"
+    },
+    {
+        "nama": "password",
+        "deskripsi": "Password untuk login admin",
+        "value": "Admin24",
+        "tipe": "value"
+    }
+]

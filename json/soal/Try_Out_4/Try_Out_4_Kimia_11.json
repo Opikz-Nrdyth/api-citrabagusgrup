@@ -1,0 +1,111 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Diantara pernyataan berikut yang tepat untuk mendefinisikan basa menurut Lewis adalah ...<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">Donor proton<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">Donor electron<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">Akseptor electron<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">Menghasilkan ion H<sup>+<\/sup><\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">Menghasilkan ion OH<sup>-<\/sup><\/span><\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Bila asam sianida dilarutkan dalam air akan terjadi kesetimbangan sebagai berikut.<\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">H<sub>2<\/sub>O(l) + HCN(aq) \u2194 H<sub>3<\/sub>O<sup>+<\/sup>(aq) + CN<sup>-<\/sup>(aq)<\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Spesi yang merupakan pasangan asam basa konjugasi adalah \u2026<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">H<sub>2<\/sub>O dan HCN<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">HCN dan H<sub>3<\/sub>O<sup>+<\/sup><\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">H<sub>3<\/sub>O<sup>+<\/sup> dan CN<sup>-<\/sup><\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">H<sub>3<\/sub>O<sup>+<\/sup><sub>&nbsp;<\/sub>dan H<sub>2<\/sub>O<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">H<sub>2<\/sub>O dan CN<sup>-<\/sup><\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Diketahui trayek pH dari beberapa indicator sebagai berikut:<\/span><\/p><figure class=\"table\" style=\"float:left;width:57.3%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:10.45%;\"><col style=\"width:19.24%;\"><col style=\"width:23.75%;\"><col style=\"width:24.34%;\"><col style=\"width:22.22%;\"><\/colgroup><tbody><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>No<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Indikator<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Trayek p<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Warna<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Warna Limbah<\/strong><\/span><\/p><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\">1.&nbsp;<\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">BTB<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">6,0 \u2013 7,6<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Kuning \u2013 biru&nbsp;<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Hijau<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\">2.&nbsp;<\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Metil merah<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">4,2 \u2013 6,3&nbsp;&nbsp;<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Merah \u2013 kuning<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">kuning<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\">3.&nbsp;<\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Metil jingga<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">2,9 \u2013 4,0<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Merah \u2013 kuning&nbsp;<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Kuning&nbsp;<\/span><\/td><\/tr><\/tbody><\/table><\/figure><p>&nbsp;<\/p><p><span style=\"background-color:transparent;color:#000000;\">Berdasarkan hasil pengujian tersebut, dapat disimpulkan bahwa pH sampel air limbah tersebut adalah \u2026<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">4,0 \u2264 pH \u2264 6,3<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">4,0 \u2264 pH \u2264 7,6<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">6,0 \u2264 pH \u2264 7,6<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">6,3 \u2264 pH \u2264 7,6<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">pH \u2265 7,6<\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Suatu larutan NaOH memiliki pH = 12, massa NaOH yang terlarut dalam 250 mL larutan tersebut adalah \u2026 (Mr NaOH = 40)<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">0,05 gr<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">0,10 gr<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">1,20 gr<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">1,60 gr<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">2,50 gr<\/span><\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Larutan asam asetat mempunyai pH = 3 \u2013 log 2. Jika Ka = 10<sup>-5<\/sup>, maka konsentrasi asam asetat adalah \u2026<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">10<sup>-1<\/sup> M<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">10<sup>-2<\/sup> M<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">10<sup>-3<\/sup> M<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">4 x 10<sup>-1<\/sup> M<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">5 x 10<sup>-2<\/sup> M<\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Diketahui data sebagai berikut.<\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Ka HK = 7 x 10<sup>-4<\/sup><\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Ka HL = 6 x 10<sup>-10<\/sup><\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Ka HM = 6,5 x 10<sup>-5<\/sup><\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Ka HN = 1,6 x 10<sup>-5<\/sup><\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Ka HP = 1,7 x 10<sup>-2<\/sup><\/span><\/p><p><span style=\"background-color:transparent;color:#000000;\">Senyawa di atas yang memiliki harga pH tertinggi adalah \u2026<\/span><\/p>",
+        "A": "<p>HK<\/p>",
+        "B": "<p>HL<\/p>",
+        "C": "<p>HM<\/p>",
+        "D": "<p>HN<\/p>",
+        "E": "<p>HP<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Larutan berikut yang mengalami hidrolisis sebagian adalah \u2026<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">K<sub>2<\/sub>SO<sub>4<\/sub><\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">CH<sub>3<\/sub>COONa<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">NaCl<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">NH<sub>4<\/sub>CN<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">MgSO<sub>4<\/sub><\/span><\/p>",
+        "Kunci": "B"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Berikut adalah hasil uji sifat asam\/basa dari beberapa garam<\/span><\/p><figure class=\"table\" style=\"float:left;width:41.16%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:16.41%;\"><col style=\"width:37.46%;\"><col style=\"width:22.29%;\"><col style=\"width:23.84%;\"><\/colgroup><tbody><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;\" rowspan=\"2\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>No<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;\" rowspan=\"2\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Rumus Garam<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;\" colspan=\"2\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Uji Lakmus<\/strong><\/span><\/p><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Merah<\/strong><\/span><\/p><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><p style=\"text-align:center;\"><span style=\"background-color:transparent;color:#000000;\"><strong>Biru<\/strong><\/span><\/p><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\">1<\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">NaCl<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Merah<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\">2<\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">CH<sub>3<\/sub>COOK<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\">3<\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">NH<sub>4<\/sub>Cl<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Merah<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Merah<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\">4<\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Na<sub>2<\/sub>SO<sub>4<\/sub><\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><\/tr><tr><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\">5<\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">NaCN<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><td style=\"border:0.5pt solid #000000;padding:0pt 5.4pt;vertical-align:top;\"><span style=\"background-color:transparent;color:#000000;\">Biru<\/span><\/td><\/tr><\/tbody><\/table><\/figure><p> <\/p><p> <\/p><p> <\/p><p> <\/p><p> <\/p><p> <\/p><p><span style=\"background-color:transparent;color:#000000;\">Garam yang mengalami hidrolisis dan sesuai dengan hasil uji lakmusnya adalah nomor \u2026<\/span><\/p>",
+        "A": "<p><span style=\"background-color:transparent;color:#000000;\">1, 2, dan 3<\/span><\/p>",
+        "B": "<p><span style=\"background-color:transparent;color:#000000;\">1, 2, dan 4<\/span><\/p>",
+        "C": "<p><span style=\"background-color:transparent;color:#000000;\">2, 3, dan 4<\/span><\/p>",
+        "D": "<p><span style=\"background-color:transparent;color:#000000;\">2, 3, dan 5<\/span><\/p>",
+        "E": "<p><span style=\"background-color:transparent;color:#000000;\">3, 4, dan 5<\/span><\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "9",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Larutan NH<sub>4<\/sub>Cl 0,01 M memiliki Kb = 10<sup>-5<\/sup>, pH larutan sebesar \u2026<\/span><\/p>",
+        "A": "<p>5<\/p>",
+        "B": "<p>5,5<\/p>",
+        "C": "<p>8,5<\/p>",
+        "D": "<p>9<\/p>",
+        "E": "<p>10<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "10",
+        "Soal": "<p><span style=\"background-color:transparent;color:#000000;\">Jika diketahui Ka HCN = 10<sup>-10<\/sup>, maka pH larutan garam NaCN 0,01 M adalah \u2026<\/span><\/p>",
+        "A": "<p>3<\/p>",
+        "B": "<p>5<\/p>",
+        "C": "<p>7<\/p>",
+        "D": "<p>9<\/p>",
+        "E": "<p>11<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Bagaimana kondisi perairan pesisir pada saat terjadi curah hujan tinggi?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Salinitas meningkat dan biota laut menurun<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Salinitas dan jumlah biota laut tidak berubah<\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Salinitas dan jumlah biota laut menurun<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Salinitas menurun dan biota laut meningkat<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Salinitas dan jumlah biota laut meningkat<\/span><\/span><\/span><\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Apa dampak DAS kritis bagi kehidupan penduduk di sekitarnya?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Meningkatnya debit sehingga kebutuhan air terpenuhi<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menurunnya sedimentasi sehingga sungai sungai dangkal<\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Meningkatnya erosi sehingga banyak lahan rusak<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menurunnya limpasan sehingga lahan kekeringan<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menurunnya cadangan air sehingga selalu kekeringan<\/span><\/span><\/span><\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Mengapa komposisi partikel pasir, debu, dan liat pada tanah memegang peran penting dalam budidaya pertanian?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Membangun horizon-horizon tanah<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Membentuk struktur tanah ideal <\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Mempengaruhi kadar organik tanah<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Mendorong kehidupan biota tanah<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menentukan derajat aerasi tanah<\/span><\/span><\/span><\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Sumber energi terbarukan ramah lingkungan apa yang banyak terdapat di Indonesia?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Geo therma, angin, biomasa, dan matahari<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Listrik, batu-bara, air dan pasangsurut<\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Matahari, angin, ombak, dan hidrokarbon<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Nuklir, biomasa, air hujan, dan air terjun<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Gas alam, biodisel, angin, dan batu bara<\/span><\/span><\/span><\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Apa perubahan yang terjadi akibat perkembangan desa dari swadaya, swakarya, swasembada, hingga perkotaan?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Luas dan status administrasif wilayah<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Aksesbilitas dan heterogenitas penduduk<\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Fungsi lembaga sosial dan ekonomi desa<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Jenis pekerjaan dan pendapatan penduduk<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Gaya hidup dan pendapatan penduduk<\/span><\/span><\/span><\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Dari segi komposisi jenis pekerjaan, mengapa Indonesia tidak dapat dikategorikan sebagai negara maju?<\/span><\/span><\/span><\/p>",
+        "A": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Terlampau banyak yang bermatapencaharian sebagai petani<\/span><\/span><\/span><\/p>",
+        "B": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Tingkat pendidikan yang masih rendah kurang mendukung jasa<\/span><\/span><\/span><\/p>",
+        "C": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Perkejaan di bidang jasa hanya digeluti oleh penduduk kota<\/span><\/span><\/span><\/p>",
+        "D": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Penduduk Indoensia kurang menyukai pekerjaan bidang jasa<\/span><\/span><\/span><\/p>",
+        "E": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Masih sedikit penduduk Indoensia yang bekerja di bidang jasa.<\/span><\/span><\/span><\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"IN\" dir=\"ltr\" style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">F<span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">aktor utama apa&nbsp; yang harus diperhatikan untuk mengatasi masalah kependudukan yang berkaitan dengan upaya peningkatan kesejahteraan?<\/span><\/span><\/span><\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\"><\/span><\/span><\/span><\/p><ol><li style=\"text-align: justify;\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Distribusi pekerjaan <\/span><\/span><\/span><\/li><li style=\"text-align: justify;\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Tenaga kerja<\/span><\/span><\/span><\/li><li style=\"text-align: justify;\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Angkatan kerja<\/span><\/span><\/span><\/li><li style=\"text-align: justify;\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Kesempatan kerja<\/span><\/span><\/span><\/li><\/ol>",
+        "A": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika (1), (2), dan (3) benar<\/span><\/span><\/p>",
+        "B": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika (1) dan (3) benar<\/span><\/span><\/p>",
+        "C": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika (2) dan (4) benar<\/span><\/span><\/p>",
+        "D": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika hanya (4) yang benar<\/span><\/span><\/p>",
+        "E": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika semuanya benar<\/span><\/span><\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Apa usaha yang dapat dilakukan untuk mencegah pencemaran lingkungan melalui <em>reuse, recycle, <\/em>dan <em>reduce?<\/em><\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\"><em><\/em><\/span><\/span><\/span><\/p><ol><li style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menggunakan kertas bekas<\/span><\/span><\/span><\/li><li style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menghemat penggunaan air<\/span><\/span><\/span><\/li><li style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menggunakan pupuk organik<\/span><\/span><\/span><\/li><li style=\"text-align:justify\"><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\"><span lang=\"IN\" dir=\"ltr\">Menghindari penggunaan pestisida<\/span><\/span><\/span><\/li><\/ol>",
+        "A": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika (1), (2), dan (3) benar<\/span><\/span><br><\/p>",
+        "B": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika (1) dan (3) benar<\/span><\/span><\/p>",
+        "C": "<p><span style=\"font-family:Times New Roman,Times,serif;\"><span style=\"font-size: 12px;\">Jika (2) dan (4) benar<\/span><\/span><\/p>",
+        "D": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">Jika hanya (4) yang benar<\/span><\/span><\/p>",
+        "E": "<p><span style=\"font-size:12px;\"><span style=\"font-family:Times New Roman,Times,serif;\">jika semuanya benar<\/span><\/span><\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    }
+]

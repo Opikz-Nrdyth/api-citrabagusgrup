@@ -1,0 +1,112 @@
+[
+    {
+        "Number": "1",
+        "Soal": "<p>Lambang suatu unsur adalah&nbsp;<math><mtable><mtr><mtd><mn>30<\/mn><\/mtd><\/mtr><mtr><mtd><mn>16<\/mn><\/mtd><\/mtr><\/mtable><\/math><span class=\"text-huge\">X<\/span>, maka dalam satu atom unsur tersebut terdapat \u2026.<\/p>",
+        "A": "<p>16 proton, 14 elektron, 14 neutron<\/p>",
+        "B": "<p>16 proton, 14 elektron, 30 neutron<\/p>",
+        "C": "<p>30 proton, 30 elektron, 16 neutron<\/p>",
+        "D": "<p>16 proton, 16 elektron, 14 neutron<\/p>",
+        "E": "<p>16 proton, 16 elektron, 30 neutron<\/p>",
+        "Kunci": "D",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "2",
+        "Soal": "<p>Pasangan atom dibawah ini yang termasuk isoton adalah \u2026.<\/p>",
+        "A": "<p><math><mtable><mtr><mtd><mn>6<\/mn><\/mtd><\/mtr><mtr><mtd><mn>2<\/mn><\/mtd><\/mtr><\/mtable><mi>H<\/mi><mi>e<\/mi><mo>&#160;<\/mo><mi>d<\/mi><mi>a<\/mi><mi>n<\/mi><mo>&#160;<\/mo><mtable><mtr><mtd><mn>6<\/mn><\/mtd><\/mtr><mtr><mtd><mn>3<\/mn><\/mtd><\/mtr><\/mtable><mi>L<\/mi><mi>i<\/mi><\/math><\/p>",
+        "B": "<p><math><mtable><mtr><mtd><mn>14<\/mn><\/mtd><\/mtr><mtr><mtd><mn>6<\/mn><\/mtd><\/mtr><\/mtable><mi>C<\/mi><mo>&#160;<\/mo><mi>d<\/mi><mi>a<\/mi><mi>n<\/mi><mo>&#160;<\/mo><mtable><mtr><mtd><mn>13<\/mn><\/mtd><\/mtr><mtr><mtd><mn>6<\/mn><\/mtd><\/mtr><\/mtable><mi>C<\/mi><\/math><\/p>",
+        "C": "<p><math><mtable><mtr><mtd><mn>31<\/mn><\/mtd><\/mtr><mtr><mtd><mn>15<\/mn><\/mtd><\/mtr><\/mtable><mi>P<\/mi><mo>&#160;<\/mo><mi>d<\/mi><mi>a<\/mi><mi>n<\/mi><mo>&#160;<\/mo><mtable><mtr><mtd><mn>32<\/mn><\/mtd><\/mtr><mtr><mtd><mn>16<\/mn><\/mtd><\/mtr><\/mtable><mi>S<\/mi><\/math><\/p>",
+        "D": "<p><math><mtable><mtr><mtd><mn>14<\/mn><\/mtd><\/mtr><mtr><mtd><mn>7<\/mn><\/mtd><\/mtr><\/mtable><mi>N<\/mi><mo>&#160;<\/mo><mi>d<\/mi><mi>a<\/mi><mi>n<\/mi><mo>&#160;<\/mo><mtable><mtr><mtd><mn>14<\/mn><\/mtd><\/mtr><mtr><mtd><mn>6<\/mn><\/mtd><\/mtr><\/mtable><mi>C<\/mi><\/math><\/p>",
+        "E": "<p><math><mtable><mtr><mtd><mn>16<\/mn><\/mtd><\/mtr><mtr><mtd><mn>8<\/mn><\/mtd><\/mtr><\/mtable><mi>O<\/mi><mo>&#160;<\/mo><mi>d<\/mi><mi>a<\/mi><mi>n<\/mi><mo>&#160;<\/mo><mtable><mtr><mtd><mn>16<\/mn><\/mtd><\/mtr><mtr><mtd><mn>7<\/mn><\/mtd><\/mtr><\/mtable><mi>N<\/mi><\/math><\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "3",
+        "Soal": "<p>Konfigurasi electron dalam atom unsur niobium (Nb) adalah [Kr] 4d<sup>3<\/sup> 5s<sup>2<\/sup>. Di dalam sistem periodikm unsur Nb terdapat pada \u2026.<\/p>",
+        "A": "<p>Golongan IIB, Periode 5<\/p>",
+        "B": "<p>Golongan IIIB, Periode 5<\/p>",
+        "C": "<p>Golongan IVB, Periode 5<\/p>",
+        "D": "<p>Golongan VB, Periode 4<\/p>",
+        "E": "<p>Golongan VB, Periode 5<\/p>",
+        "Kunci": "E",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "4",
+        "Soal": "<p>Unsur V, W, X, Y, Z berturut-turut mempunyai nomor atom 2,3,8,12,20. Pasangan unsur yang berada dalam satu golongan adalah \u2026.<\/p>",
+        "A": "<p>W dan Z<\/p>",
+        "B": "<p>X dan Y<\/p>",
+        "C": "<p>V dan Z<\/p>",
+        "D": "<p>X dan Z<\/p>",
+        "E": "<p>W dan Y<\/p>",
+        "Kunci": "C",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "5",
+        "Soal": "<p>Unsur <sub>13<\/sub>Al<sup>27<\/sup> dalam sistem periodik unsur terletak pada \u2026.<\/p>",
+        "A": "<p>Golongan IIIA, Periode 3<\/p>",
+        "B": "<p>Golongan IIIA, Periode 4<\/p>",
+        "C": "<p>Golongan IIIA, Periode 4<\/p>",
+        "D": "<p>Golongan VIA, Periode 3<\/p>",
+        "E": "<p>Golongan VIA, Periode 4<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "6",
+        "Soal": "<p>Diantara unsur-unsur <sub>11<\/sub>Na, <sub>12<\/sub>Mg, <sub>19<\/sub>K, <sub>20<\/sub>Ca, dan <sub>37<\/sub>Rb. Yang memiliki energi ionisasi terbesar adalah \u2026.<\/p>",
+        "A": "<p>Na<\/p>",
+        "B": "<p>Mg<\/p>",
+        "C": "<p>K<\/p>",
+        "D": "<p>Ca<\/p>",
+        "E": "<p>Rb<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "7",
+        "Soal": "<p>Unsur berikut yang dapat berikatan ion adalah \u2026.<\/p>",
+        "A": "<p><sub>19<\/sub>P dan <sub>20<\/sub>Q<\/p>",
+        "B": "<p><sub>20<\/sub>Q dan <sub>35<\/sub>T<\/p>",
+        "C": "<p><sub>35<\/sub>T dan <sub>15<\/sub>S<\/p>",
+        "D": "<p><sub>20<\/sub>Q dan <sub>13<\/sub>R<\/p>",
+        "E": "<p><sub>13<\/sub>R dan <sub>19<\/sub>P<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "8",
+        "Soal": "<p>Ikatan ion pada unsur NaCl terjadi karena \u2026.<\/p>",
+        "A": "<p>Atom Na melepas 1 elektron, atom Cl menerima 1 elektron<\/p>",
+        "B": "<p>Atom Na melepas 2 elektron, atom Cl menerima 2 elektron<\/p>",
+        "C": "<p>Atom Na melepas 1 elektron, atom Cl menerima 7 elektron<\/p>",
+        "D": "<p>Atom Na melepas 7 elektron, atom Cl menerima 1 elektron<\/p>",
+        "E": "<p>Atom Na melepas 11 elektron, atom Cl menerima 17 elektron<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "9",
+        "Soal": "<p>Diketahui konfigurasi electron unsur:<\/p><p>P = 2.4<\/p><p>Q = 2.6<\/p><p>R =2.7<\/p><p>S = 2.8.6<\/p><p>T = 2.8.8.1<\/p><p>Pasangan unsur diatas yang dapat membentuk ikatan ion adalah \u2026.<\/p>",
+        "A": "<p>P dan R<\/p>",
+        "B": "<p>R dan T<\/p>",
+        "C": "<p>Q dan S<\/p>",
+        "D": "<p>S dan R<\/p>",
+        "E": "<p>P dan Q<\/p>",
+        "Kunci": "B",
+        "tipe": "pilihan"
+    },
+    {
+        "Number": "10",
+        "Soal": "<p>Pasangan unsur-unsur dibawah ini yang berikatan kovalen adalah \u2026.<\/p>",
+        "A": "<p><sub>8<\/sub>P dan <sub>16<\/sub>S<\/p>",
+        "B": "<p><sub>12<\/sub>Q dan <sub>13<\/sub>R<\/p>",
+        "C": "<p><sub>12<\/sub>Q dan <sub>16<\/sub>S<\/p>",
+        "D": "<p><sub>13<\/sub>R dan <sub>16<\/sub>S<\/p>",
+        "E": "<p><sub>13<\/sub>R dan <sub>17<\/sub>T<\/p>",
+        "Kunci": "A",
+        "tipe": "pilihan"
+    }
+]
